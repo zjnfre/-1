@@ -1,0 +1,9 @@
+{
+  "display_name": "Хогвартс · Помощник по магии",
+  "loading_order": 91,
+  "author": "Hogwarts Scene Guide",
+  "version": "1.0.0",
+  "minimum_client_version": "1.13.2",
+  "js": "index.js",
+  "css": "style.css"
+}
